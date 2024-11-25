@@ -6,3 +6,21 @@
 :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/)    <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218)  
+
+## :technologist: Skills
+#### Software Quality Assurance:
+
+* Test Case Writing
+* Test Plan Writing
+* Test Matrix Writing
+* Bug Report Writing
+* Mind Mapping
+* Functional Testing
+* Non-functional Testing
+* Api Testing With Postman
+* Api Testing With Jmeter
+* Performance Testing With Jmeter
+* Github
+* Selenium With Java
+* Appium  With Java
+* Api Testing With Cypress
